@@ -1,0 +1,26 @@
+{
+  "menu-version": "7.7.1",
+  "min-version": "7.6.0",
+  "discord-invite": "https://discord.gg/iidk",
+  "motd": "",
+  "admins": [
+    {
+      "name": "scoobomized",
+      "user-id": "97F8055A0892F0BE"
+    }
+  ],
+  "super-admins": [
+    "scoobomized"
+  ],
+  "blacklisted-ids": [
+    "7BDADB558EAFFC3F",
+    "F952FCCF8311B94A",
+    "87B859204D1624C4"
+  ],
+  "detected-mods": [
+    "Jordanthepug"
+  ],
+  "poll": "There is a menu update, for those on 7.7.0 the in-game update system won't work for this one, I'm sorry it broke. Please get the new version",
+  "option-a": "Ok",
+  "option-b": "Sure"
+}
