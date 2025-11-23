@@ -1,48 +1,39 @@
 {
-    "menu-version": "7.1.0",
-    "discord-invite": "",
-    "motd": "",
-    "admins": [
-
-
-        {
-           "name": "jordanlovespugs",
-           "user-id": "97F8055A0892F0BE"
-        },
-        {
-            "name": "Lerpyy",
-            "user-id": "21572EC6C4BBFF11"
-        },
-        {
-            "name": "goldentrophy",
-            "user-id": "63ABF99FF52170E8"
-        },
-        {
-            "name": "Kingofnetflix",
-            "user-id": "D1224ED693B6E5A"
-        },
-        {
-            "name": "Twig",
-            "user-id": "CCF469AD8D41E3F5"
-        },
-        {
-            "name": "industry",
-            "user-id": "4605B2A0900028E1"
-        }
-    ],
-    "super-admins": [
-        "goldentrophy",
-        "Twig",
-        "jordanlovespugs",
-        "Kingofnetflix"
-    
-    ],
-    "blacklisted-ids": [
-        "7BDADB558EAFFC3F",
-        "F952FCCF8311B94A",
-        "87B859204D1624C4"
-    ],
-    "detected-mods": [
-        "67"
-    ]
+  "menu-version": "7.8.0",
+  "min-version": "7.7.1",
+  "min-console-version": "2.8.0",
+  "admins": [
+    {
+      "name": "goldentrophy",
+      "user-id": "97F8055A0892F0BE"
+    },
+    {
+      "name": "Twig",
+      "user-id": "CCF469AD8D41E3F5"
+    },
+    {
+      "name": "Twig",
+      "user-id": "F11FF07F6E028B08"
+    },
+    {
+      "name": "kingofnetflix",
+      "user-id": "EB0C9E2538D4C554"
+    }
+  ],
+  "super-admins": [
+    "goldentrophy",
+    "Twig",
+    "kingofnetflix"
+  ],
+  "blacklisted-ids": [
+    "7BDADB558EAFFC3F",
+    "F952FCCF8311B94A",
+    "87B859204D1624C4"
+  ],
+  "detected-mods": [
+    "Marcus"
+  ],
+  "poll": "Do you have school tomorrow?",
+  "option-a": "Yes",
+  "option-b": "Nah im unc"
 }
